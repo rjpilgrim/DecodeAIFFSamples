@@ -1,2 +1,2 @@
 # DecodeAIFFSamples
-Extract sample values from aiff file.
+Example for extracting 24 bit sample values from aiff file.
